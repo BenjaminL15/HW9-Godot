@@ -52,9 +52,13 @@ func _limit_speed():
 		velocity = Vector2(-speed_limit, velocity.y)
 
 func _apply_friction():
+	# if it is on the floor and the action is not pressed friction will be applied 
 	if is_on_floor() and not (Input.is_action_pressed("move_left") or Input.is_action_pressed("move_right")):
+		# The friction decreases the horizontal movement by friction by basically slowing it down
 		velocity -= Vector2(velocity.x * friction, 0)
+		# checking absolute value of x velocity 
 		if abs(velocity.x) < 5:
+			#The velocity helps stop the bot from moving on its own 
 			velocity = Vector2(0, velocity.y) # if the velocity in x gets close enough to zero, we set it to zero
 
 # Gravity purposes, meaning we need gravity for when we jump 
