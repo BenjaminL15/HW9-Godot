@@ -1,2 +1,2 @@
-res://movement_demo.tscn
 res://hw_problem_3.tscn
+res://Scripts/MoveCharacter.gd

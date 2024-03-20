@@ -1,10 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710890606
+::res://::1710890861
 hw_problem_1.tscn::PackedScene::4170376007236413626::1710889558::0::1::::<><>::res://Scripts/DeadlyArea.gd<>res://Scripts/MoveCharacter.gd<>uid://5n4fe0v0umjv::::res://icon.svg<>res://Scripts/PolygonCollisionShaper.gd
 hw_problem_2.tscn::PackedScene::4098399665178618153::1710890511::0::1::::<><>::res://Scripts/DeadlyArea.gd<>res://Scripts/MoveCharacter.gd<>uid://5n4fe0v0umjv::::res://icon.svg<>res://Scripts/PolygonCollisionShaper.gd
-hw_problem_3.tscn::PackedScene::3545962196686457857::1710890575::0::1::::<><>::res://Scripts/MoveCharacter.gd<>uid://5n4fe0v0umjv::::res://icon.svg<>res://Scripts/PolygonCollisionShaper.gd
+hw_problem_3.tscn::PackedScene::3545962196686457857::1710890667::0::1::::<><>::res://Scripts/MoveCharacter.gd<>uid://5n4fe0v0umjv::::res://icon.svg<>res://Scripts/PolygonCollisionShaper.gd
 icon.svg::CompressedTexture2D::2134272191405364103::1710888926::1710888926::1::::<><>::
-movement_demo.tscn::PackedScene::3890612858818761701::1710890568::0::1::::<><>::res://Scripts/MoveCharacter.gd<>res://Scripts/DeadlyArea.gd<>uid://5n4fe0v0umjv::::res://icon.svg<>res://Scripts/PolygonCollisionShaper.gd
+movement_demo.tscn::PackedScene::3890612858818761701::1710890651::0::1::::<><>::res://Scripts/MoveCharacter.gd<>res://Scripts/DeadlyArea.gd<>uid://5n4fe0v0umjv::::res://icon.svg<>res://Scripts/PolygonCollisionShaper.gd
 ::res://Scripts/::1710888934
 DeadlyArea.gd::GDScript::-1::1710888934::0::1::::<>Node2D<>::
 MoveCharacter.gd::GDScript::-1::1710888934::0::1::::<>CharacterBody2D<>::
